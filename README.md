@@ -1,2 +1,2 @@
 # Arduino
-This Repo contains some of my arduino codes which I have used in my projects.
+This Repository contains some of my arduino codes which I have used in my projects.
